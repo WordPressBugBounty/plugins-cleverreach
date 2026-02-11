@@ -1,8 +1,8 @@
 === Newsletter Sign-Up for CleverReach ===
 Contributors: cleverreach43
-Tags: email, newsletter, cleverreach, campaign, widget, marketing, woocommerce
+Tags: newsletter, email marketing tool, marketing automation, integration, email automation
 Requires at least: 3.9
-Tested up to: 6.6.2
+Tested up to: 6.8.2
 Stable tag: 2.3.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit60f201b9457a5409046207edbd5031da
+class ComposerStaticInit7424f5b86b572607f780ddbadcebab78
 {
     public static $classMap = array (
         'CleverReach\\Newsletter\\Admin\\CleverReach_FormBuilderPage' => __DIR__ . '/../..' . '/includes/Admin/class-form-builder-page.php',
@@ -44,7 +44,7 @@ class ComposerStaticInit60f201b9457a5409046207edbd5031da
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->classMap = ComposerStaticInit60f201b9457a5409046207edbd5031da::$classMap;
+            $loader->classMap = ComposerStaticInit7424f5b86b572607f780ddbadcebab78::$classMap;
 
         }, null, ClassLoader::class);
     }
